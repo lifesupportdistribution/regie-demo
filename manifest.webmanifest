@@ -1,6 +1,6 @@
 {
-  "name": "Vidéodébriefing LSD",
-  "short_name": "Débriefing",
+  "name": "LifeSIM",
+  "short_name": "LifeSIM",
   "description": "Régie, télécommande et débriefing de la simulation en santé.",
   "lang": "fr",
   "start_url": "./#/accueil",
